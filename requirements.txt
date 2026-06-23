@@ -1,0 +1,14 @@
+# 基础依赖
+python-dotenv>=1.0.0
+streamlit>=1.30.0
+pydantic>=2.0.0
+pymodbus>=3.5.0
+requests>=2.31.0
+
+# 类型注解（Python 3.8+ 内置，如需兼容更低版本可添加）
+# typing-extensions>=4.8.0
+
+# 可选：日志/性能优化相关（代码中未直接依赖但常用）
+# psutil>=5.9.0
+# loguru>=0.7.2
+
